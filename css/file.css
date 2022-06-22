@@ -1,0 +1,77 @@
+header{
+    background:url(../images/img-bg-01.jpg) no-repeat center scroll ;
+    background-size: cover;
+    height: 110vh;   
+}
+.fs-1
+{
+    font-size: 60px !important;
+}
+.chancol:hover
+{
+    color: rgb(255, 174, 0) !important;
+}
+.about
+{
+    position: relative;
+    bottom: 28px;
+    z-index: 1;
+}
+
+.fs-6
+{
+    font-size: 13px !important;
+}
+.border-warning
+{
+    border-bottom:10px solid rgb(255, 202, 105) !important;
+}
+.d-flex div{
+    width: 35vh;
+    height: 75vh;
+}
+.d-flex div hr{
+    height: 10px;
+}
+.black
+{
+    height: 95vh !important;
+    width: 40vh !important;
+}
+.button
+{
+    margin-top: 100px !important;
+}
+.button:hover
+{
+    border-color: gray !important;
+    background-color: gray;
+}
+.image 
+{
+    background:url(../images/video-placeholder.jpg) no-repeat center scroll ;
+    background-size: cover;
+    height: 80vh;      
+}
+input
+{
+    height: 45px;
+    z-index: 1;
+    position: relative;
+    left: 25px;
+    top: 3px;
+}
+.up
+{
+    position: relative;
+    bottom: 70px;
+    z-index: -1;
+}
+i:hover{
+    background-color: blue;
+    color: white;
+}
+
+.top-45{
+    top:45%;
+}
